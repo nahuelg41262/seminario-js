@@ -14,4 +14,4 @@ La aplicación desarrollada en vivo en el seminario intenta reflejar un uso del 
 3. Ingresar por linea de comandos a la carpeta    
 4. `npm install`    
 5. `npm run build`    
-6. Profit
+6. Profit(?)
